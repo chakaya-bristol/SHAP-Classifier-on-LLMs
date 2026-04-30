@@ -19,4 +19,15 @@ Large language models are increasingly used for health-related tasks, yet their 
 - **Textual complexity** (claim length, word sophistication) independently predicts failure
 - Surrogate classifier achieves **AUC-ROC of 0.731**, confirming failures are systematic, not random
 
+## Repository structure
 
+- `data/`  
+  Pubhealth datasets and outputs from the LLM
+
+- `code/`  
+  Notebooks and helper functions for prompt generation, model evaluation, metrics, and plots.  
+
+- `README.md` (this file)  
+  High-level overview of the project.
+
+---
