@@ -31,3 +31,16 @@ Large language models are increasingly used for health-related tasks, yet their 
   High-level overview of the project.
 
 ---
+## Citation
+
+If you use the dataset, please cite the original PubHealth paper:
+
+> Kotonya, N., & Toni, F. (2020). Explainable Automated Fact-Checking for Public Health Claims.
+
+## License
+ 
+This project is for academic purposes.
+ 
+## Author
+ 
+[@chakaya-bristol](https://github.com/chakaya-bristol)
